@@ -43,6 +43,9 @@ cd into this app's directory
 #### Install selenium : 
 <blockquote>pip install selenium</blockquote>
 
+#### Install colored
+<blockquote>pip install colored</blockquote>
+
 #### You may have to add phantomjs to your system: 
 <blockquote> npm install -g phantomjs </blockquote>
 
